@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_principal_black_24dp"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_event"
+        android:icon="@drawable/ic_evento_black_24dp"
+        android:title="Eventos"/>
+    <item
+        android:id="@+id/nav_chats"
+        android:icon="@drawable/ic_chat_black_24dp"
+        android:title="Chats"/>
+    <item
+        android:id="@+id/nav_perfil"
+        android:icon="@drawable/ic_perfil_black_24dp"
+        android:title="Yo"/>
+
+
+</menu>
